@@ -1,0 +1,1 @@
+This repository contains a Jupyter Notebook exploring solitons covering: derivation of governing equations and discussion of physical principles, simulation techniques for solving nonlinear wave equations, interactive plots and animations to illustrate soliton dynamics.
