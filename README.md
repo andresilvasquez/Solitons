@@ -50,9 +50,10 @@ The final part explores the nonlinear interaction and collision of two solitons.
 ---
 
 ## How to Run
-Clone the repository and open the notebook in Jupyter:  
+
+Clone the repository and navigate into the `Notebooks/` folder:
+
 ```bash
 git clone https://github.com/andresilvasquez/Solitons.git
-cd Solitons
-jupyter notebook
+cd Solitons/Notebooks
 
